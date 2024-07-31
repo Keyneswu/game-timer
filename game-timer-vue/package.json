@@ -1,0 +1,26 @@
+{
+  "name": "game-timer",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@dangvanthanh/vue-clock": "^0.2.5",
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3",
+    "cirrus-ui": "^0.7.2-patch.1",
+    "element-plus": "^2.7.8",
+    "pinia": "^2.1.7",
+    "vue": "^3.4.29",
+    "vue-router": "^4.3.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "@vitejs/plugin-vue-jsx": "^4.0.0",
+    "vite": "^5.3.1"
+  }
+}
